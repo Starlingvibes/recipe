@@ -1,0 +1,37 @@
+.title {
+ color: DarkSlateGrey;
+ font-weight:100;
+ font-style: Georgia, sans setif;
+ text-align:center;
+}
+p {
+  color: DarkSlateGrey;
+  font-color:black;
+  }
+.uppercase {
+ text-transform: uppercase;
+}
+#specificity {
+
+}
+body  {
+  background-color:Lavender;
+}
+<style>
+.myTable {
+border-collapse:collapse; 
+}
+.myTable th { 
+background-color:DarkSlateGrey;
+color:white; 
+}
+.myTable td, .ingrequired th { 
+padding:5px;
+border:1px solid teal;
+}
+</style>
+<style>
+.drop-shadow {
+  box-shadow: 7px 7px 20px 0px  rgba(0,0,0,0.3), 40px 40px 10px -40px  rgba(0,0,0,0.8) inset;
+}
+</style>
